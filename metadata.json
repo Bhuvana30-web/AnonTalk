@@ -1,0 +1,8 @@
+{
+  "name": "Unmask - Safe Social Space",
+  "description": "An anonymous, topic-based social network where users can share thoughts freely without fear of judgment. Includes AI-powered chat summaries and a secure friend reveal system.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
